@@ -17,11 +17,11 @@ Contribute to a more secure online environment and a better-prepared workforce i
 
 ## Project Screenshots
 
-![Screenshot 1](Screen_shot_output/screenshot1.png)
-![Screenshot 2](Screen_shot_output/screenshot2.png)
-![Screenshot 3](Screen_shot_output/screenshot3.png)
-![Screenshot 4](Screen_shot_output/screenshot4.png)
-![Screenshot 4](Screen_shot_output/screenshot4.png)
+![Screenshot 1](Screen_shot_output/vuln_server.png.jpg)
+![Screenshot 2](Screen_shot_output/Security_misconfiguration.jpg)
+![Screenshot 3](Screen_shot_output/bruteforce_attack.png.jpg)
+![Screenshot 4](Screen_shot_output/clearrtexthttpcredential.png)
+![Screenshot 4](Screen_shot_output/outdated_componenets.png.jpg)
 ![Screenshot 4](Screen_shot_output/IDOR.jpg)
 
 
