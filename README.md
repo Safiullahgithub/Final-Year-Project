@@ -15,6 +15,17 @@ Provide a user-friendly testbed for hands-on practice and learning.
 Equip individuals and organizations with the skills to identify and mitigate web application vulnerabilities.
 Contribute to a more secure online environment and a better-prepared workforce in the field of web application security.
 
+## Project Screenshots
+
+![Screenshot 1](Screen_shot_output/screenshot1.png)
+![Screenshot 2](Screen_shot_output/screenshot2.png)
+![Screenshot 3](Screen_shot_output/screenshot3.png)
+![Screenshot 4](Screen_shot_output/screenshot4.png)
+![Screenshot 4](Screen_shot_output/screenshot4.png)
+![Screenshot 4](Screen_shot_output/IDOR.jpg)
+
+
+
 ## Benefits
 
 Through this initiative, we aspire to contribute to a more secure online environment and a better-prepared workforce in the field of web application security. By offering updated and practical training resources, we aim to mitigate the risk posed by web application vulnerabilities and enhance overall cybersecurity practices.
