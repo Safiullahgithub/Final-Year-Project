@@ -20,9 +20,9 @@ Contribute to a more secure online environment and a better-prepared workforce i
 ![Screenshot 1](Screen_shot_output/vuln_server.png.jpg)
 ![Screenshot 2](Screen_shot_output/Security_misconfiguration.jpg)
 ![Screenshot 3](Screen_shot_output/bruteforce_attack.png.jpg)
-![Screenshot 4](Screen_shot_output/clearrtexthttpcredential.png)
-![Screenshot 4](Screen_shot_output/outdated_componenets.png.jpg)
-![Screenshot 4](Screen_shot_output/IDOR.jpg)
+![Screenshot 4](Screen_shot_output/clearr text http credential.jpg)
+![Screenshot 5](Screen_shot_output/outdated_componenets.png.jpg)
+![Screenshot 6](Screen_shot_output/IDOR.jpg)
 
 
 
