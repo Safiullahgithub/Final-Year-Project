@@ -25,4 +25,3 @@ For access to the source code or any further information, please contact us at [
 
 
 
-Feel free to adjust any part of this README to better fit your project's specifics and style!
