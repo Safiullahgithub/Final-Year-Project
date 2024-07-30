@@ -34,7 +34,7 @@ Through this initiative, we aspire to contribute to a more secure online environ
 For access to the source code or any further information, please contact us at [safimohmand34@gmail.com](mailto:safimohmand34@gmail.com).
 
 #FYP_Grade
-![Screenshot 1](Final_FYP_Grade.jpg)
+![Screenshot 7](Screen_shot_output/Final_FYP_Grade.jpg)
 
 
 
