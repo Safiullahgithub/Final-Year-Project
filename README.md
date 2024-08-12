@@ -2,7 +2,7 @@
 
 ## Overview
 
-The NCCS-UETP Testbed for Web Applications Vulnerabilities project addresses the critical need for updated and accessible training materials in web application security. The existing OWASP training materials, which have remained unchanged since 2013-2017, have resulted in a significant gap in preparing individuals and organizations for the evolving landscape of web security challenges. This stagnation has led to a shortage of expertise amid the increasing number of cyber threats, consequently raising the risk for organizations' web-based systems and data.
+The NCCS-UETP Testbed for Web Applications Vulnerabilities project addresses the critical need for updated and accessible training materials in web application security. The existing OWASP training materials, which have remained unchanged since 2013-2021, have resulted in a significant gap in preparing individuals and organizations for the evolving landscape of web security challenges. This stagnation has led to a shortage of expertise amid the increasing number of cyber threats, consequently raising the risk for organizations' web-based systems and data.
 
 ## Project Goals
 
@@ -15,8 +15,8 @@ Provide a user-friendly testbed for hands-on practice and learning.
 Equip individuals and organizations with the skills to identify and mitigate web application vulnerabilities.
 Contribute to a more secure online environment and a better-prepared workforce in the field of web application security.
 
-# Tools Use:
-Burp suite , Nessus
+# Tools & Tech Use:
+Burp suite , Nessus ,mysql ,php,xampp server
 
 ## Project Screenshots
 
